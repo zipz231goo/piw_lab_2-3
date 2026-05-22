@@ -218,7 +218,7 @@ text-transform: uppercase;
 
 .stars-block {
   /* min-height: 480px; */
-  background-image: url('../lab2-3/image/bg_stars.png');
+  background-image: url('./image/bg_stars.png');
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
